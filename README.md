@@ -1,6 +1,6 @@
 # ProdigyTask2
 
-Title: Image Encryption and Decryption using Python
+Title: Pixel Manipulation for Image Encryption and Decryption using Python
 
 Overview: This Python script provides functionality to encrypt and decrypt images using a simple encryption algorithm. The script utilizes the Python Imaging Library (PIL) to manipulate image data.
 
